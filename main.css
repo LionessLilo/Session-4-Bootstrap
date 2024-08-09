@@ -1,0 +1,54 @@
+/* Fonts */
+.playfair-display {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.quattrocento-regular {
+    font-family: "Quattrocento", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.quattrocento-bold {
+    font-family: "Quattrocento", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Main CSS */
+.main-heading {
+    font-size: 2em;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.day {
+    text-align: left;
+}
+
+.text-border {
+    border-style: hidden;
+}
+
+/* .table-border {
+    border: 3px;
+    border-color: black;
+} */
+
+.footer {
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    background-color: rgba(225, 126, 132, 0.3);
+}
